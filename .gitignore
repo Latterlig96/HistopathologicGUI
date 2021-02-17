@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#Env
+
+cancer_env/
+
 # Distribution / packaging
 .Python
 build/

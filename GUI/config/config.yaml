@@ -1,0 +1,36 @@
+main_window: 
+    appTitle: "Medicine"
+    width: 510 
+    height: 690
+    widget_width: 420 
+    widget_height: 630
+    widget_x_cor: 45
+    widget_y_cor: 10
+    menubar_width: 520
+    menubar_height: 30
+    menubar_x_cor: 0
+    menubar_y_cor: 0
+    font: "Franklin Gothic Medium"
+    font-size: 10
+
+model_view:
+    appTitle: "Medicine"
+    width: 850 
+    height: 550 
+    grid_widget_width: 520
+    grid_widget_height: 410
+    grid_widget_x_cor: 30 
+    grid_widget_y_cor: 10 
+    vert_widget_width: 260
+    vert_widget_height: 490
+    vert_widget_x_cor: 590 
+    vert_widget_y_cor: 10
+    font: "Franklin Gothic Medium"
+    font-size: 10
+
+Shortcuts: 
+    load_file: "Ctrl+L"
+    save_file: "Ctrl+S"
+    readme: "Ctrl+R"
+    resize: "Ctrl+B"
+    reset: "Shift+Ctrl+R"

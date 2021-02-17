@@ -1,0 +1,15 @@
+glob2==0.6
+imgaug==0.2.9
+ipython==7.4.0
+matplotlib==3.0.3
+numpy==1.16.2
+opencv-python==3.4.2.16
+pandas==0.24.2
+scikit-learn==0.20.3
+scipy==1.2.1
+lime==0.1.1.36
+ipykernel==5.1.2
+tqdm==4.34.0
+efficientnet
+tensorflow-gpu==2.1.0rc2
+wandb
